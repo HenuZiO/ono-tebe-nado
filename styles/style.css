@@ -172,7 +172,8 @@ body {
   border: 1px solid #fff;
   padding: 10px 33px 12px 32px;
   color: #fff;
-  font-weight: 500;
+  font-family: inherit;
+  font-weight: 400;
   font-size: 22px;
   text-transform: uppercase;
   background: transparent;
