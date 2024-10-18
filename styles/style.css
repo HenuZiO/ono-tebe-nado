@@ -172,7 +172,6 @@ body {
   border: 1px solid #fff;
   padding: 10px 33px 12px 32px;
   color: #fff;
-  font-family: inherit;
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
@@ -315,7 +314,6 @@ body {
 /* Стили для Footer */
 
 .footer {
-  display: flex;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 180px 24px 88px;
